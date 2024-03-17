@@ -50,11 +50,6 @@ Here are some of the technologies and skills I work with:
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 
-## 📊 GitHub Visitors Count
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=deodharaditi.deodharaditi)
-
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deodharaditi&show_icons=true&theme=radical)
