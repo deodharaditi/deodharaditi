@@ -49,12 +49,6 @@ Here are some of the technologies and skills I work with:
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deodharaditi&show_icons=true&theme=radical)
-
-
 ## 📈 GitHub Rankings
 
 ![Your GitHub Rankings](https://github-readme-stats.vercel.app/api/top-langs/?username=deodharaditi&layout=compact&theme=radical)
